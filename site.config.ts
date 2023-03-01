@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Resume-87934ee829d44c6ab2717b9e42a7a30f',
+  rootNotionPageId: 'Antony-802808c00b114c90a9b757bce677e833',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'My Two Cents',
-  domain: 'https://tidy-akubra-e3b.notion.site/Resume-87934ee829d44c6ab2717b9e42a7a30f',
+  domain: 'https://tidy-akubra-e3b.notion.site/Antony-802808c00b114c90a9b757bce677e833',
   author: 'Antony',
 
   // open graph metadata (optional)
